@@ -1,0 +1,26 @@
+@import url(reset.css);
+@import url('https://fonts.googleapis.com/css?family=Bubbler+One');
+
+@font-face {
+  src: url(../fonts/BubblerOne.ttf);
+  font-family: 'Bubbler One';
+  font-weight: regular;
+  background-color: #inherit;
+}
+
+h1 {
+  font-family: 'Bubbler One', sans-serif;
+  font-size: 100px;
+  text-align: center;
+  text-decoration: none; /*none*/
+  color: #b195a8;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  line-height: 0px;
+  text-shadow: 0px 0px 0px #b195a7; /*x, y, размытие, цвет*/
+
+}
+
+be{
+  right: auto;
+}
